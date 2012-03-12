@@ -1,1 +1,1 @@
-# chenjenping&apos; old vimrc
+# chenjenping&apos;s old vimrc
